@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"max.h"
+extern int max(int x, int y);
 
 int main(){
     int num; 
